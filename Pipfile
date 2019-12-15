@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+wemake-python-styleguide = "*"
+mypy = "*"
+pytest = "*"
+
+[packages]
+aiohttp = "*"
+lxml = "*"
+beautifulsoup4 = "*"
+nltk = "*"
+
+[requires]
+python_version = "3.8"
