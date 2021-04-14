@@ -12,7 +12,6 @@ pytest = "*"
 aiohttp = "*"
 beautifulsoup4 = "*"
 nltk = "*"
-lxml = "==4.6.0"
 
 [requires]
 python_version = "3.8"
