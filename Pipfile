@@ -10,7 +10,6 @@ pytest = "*"
 
 [packages]
 aiohttp = "*"
-lxml = "*"
 beautifulsoup4 = "*"
 nltk = "*"
 
